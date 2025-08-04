@@ -1,2 +1,4 @@
 
 dataset/nuga_bank_transactions.csv
+.env
+.data/*.csv
